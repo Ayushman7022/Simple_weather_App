@@ -18,9 +18,9 @@ The app allows users to check real-time weather data for their **current locatio
 ---
 
 ## 📸 Screenshots
-| Home Screen | Search City | Weather Card |
-|-------------|-------------|--------------|
-| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/search.png" width="250"/> | <img src="screenshots/card.png" width="250"/> |
+| Home Screen |
+|-------------|
+| <img src="Screenshot 2025-08-21 025342.png" width="250"/> 
 
 ---
 
