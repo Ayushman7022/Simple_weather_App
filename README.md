@@ -10,10 +10,10 @@ The app allows users to check real-time weather data for their **current locatio
 ## ✨ Features
 - 🌍 Get **real-time weather** using [OpenWeather API](https://openweathermap.org/api).  
 - 📍 Detect **user's current location** automatically.  
-- 🔍 Search weather by **city name**.  
-- 🃏 Display weather in a **CardView UI**.  
-- 📊 Show temperature, conditions, humidity, wind speed, and more.  
-- 🎨 Clean and responsive design with **Material UI**.  
+- Search weather by **city name**.  
+- Display weather in a **CardView UI**.  
+- Show temperature, conditions, humidity, wind speed, and more.  
+- Clean and responsive design with **Material UI**.  
 
 ---
 
@@ -33,7 +33,7 @@ The app allows users to check real-time weather data for their **current locatio
 
 ---
 
-## 🚀 Getting Started
+##Getting Started
 
 ### Prerequisites
 - Android Studio (latest version)  
