@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+# Weather App
 
 A simple and elegant **Android Weather App** built with **Kotlin**.  
 The app allows users to check real-time weather data for their **current location** or by **searching for a city**.  
@@ -7,9 +7,9 @@ The app allows users to check real-time weather data for their **current locatio
 
 ---
 
-## ✨ Features
-- 🌍 Get **real-time weather** using [OpenWeather API](https://openweathermap.org/api).  
-- 📍 Detect **user's current location** automatically.  
+## Features
+- Get **real-time weather** using [OpenWeather API](https://openweathermap.org/api).  
+- Detect **user's current location** automatically.  
 - Search weather by **city name**.  
 - Display weather in a **CardView UI**.  
 - Show temperature, conditions, humidity, wind speed, and more.  
@@ -17,14 +17,14 @@ The app allows users to check real-time weather data for their **current locatio
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 | Home Screen |
 |-------------|
 | <img src="Screenshot 2025-08-21 025342.png" width="250"/> 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language**: Kotlin  
 - **Framework**: Android SDK  
 - **Architecture**: MVVM (if applied)  
